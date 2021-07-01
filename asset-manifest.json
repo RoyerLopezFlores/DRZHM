@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/DRZHM/static/css/main.8b9e6323.chunk.css",
+    "main.js": "/DRZHM/static/js/main.6e23132e.chunk.js",
+    "main.js.map": "/DRZHM/static/js/main.6e23132e.chunk.js.map",
+    "runtime-main.js": "/DRZHM/static/js/runtime-main.d8334f44.js",
+    "runtime-main.js.map": "/DRZHM/static/js/runtime-main.d8334f44.js.map",
+    "static/css/2.13226598.chunk.css": "/DRZHM/static/css/2.13226598.chunk.css",
+    "static/js/2.f5f9cd88.chunk.js": "/DRZHM/static/js/2.f5f9cd88.chunk.js",
+    "static/js/2.f5f9cd88.chunk.js.map": "/DRZHM/static/js/2.f5f9cd88.chunk.js.map",
+    "static/js/3.b8b0ef04.chunk.js": "/DRZHM/static/js/3.b8b0ef04.chunk.js",
+    "static/js/3.b8b0ef04.chunk.js.map": "/DRZHM/static/js/3.b8b0ef04.chunk.js.map",
+    "index.html": "/DRZHM/index.html",
+    "static/css/2.13226598.chunk.css.map": "/DRZHM/static/css/2.13226598.chunk.css.map",
+    "static/css/main.8b9e6323.chunk.css.map": "/DRZHM/static/css/main.8b9e6323.chunk.css.map",
+    "static/js/2.f5f9cd88.chunk.js.LICENSE.txt": "/DRZHM/static/js/2.f5f9cd88.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d8334f44.js",
+    "static/css/2.13226598.chunk.css",
+    "static/js/2.f5f9cd88.chunk.js",
+    "static/css/main.8b9e6323.chunk.css",
+    "static/js/main.6e23132e.chunk.js"
+  ]
+}
